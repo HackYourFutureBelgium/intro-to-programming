@@ -1,0 +1,51 @@
+# General
+.DS_Store
+node_modules/
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+*.db
+
+# JavaScript/Frontend
+dist/
+build/
+*.cache
+
+# Logs and Debug Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+
+# System Files
+Thumbs.db
+*.bak
+
+# Database
+*.sqlite
+*.sql
+
+# Coverage and Testing
+coverage/
+*.cover
+.pytest_cache/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Generated Files
+*.map
