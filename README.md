@@ -1,6 +1,6 @@
 # Introduction To programming
 
-- [Week 1: JavaScript Fundamentals](./week-01/README.md)
+- [Week 1: Version Control System](./week-01/README.md)
 
 - [Week 2: Intermediate JavaScript](./week-02/README.md)
 
