@@ -1,25 +1,19 @@
-# SQL Fundamentals
+# 🗃️ Week 7: Databases & Auth with FastAPI
 
-**Day 1:** Introduction to Databases
+Welcome to Week 7! We'll now connect our API to a real database and add authentication.
 
-- Setting up SQLite/MySQL.
-- Basic SQL queries: `SELECT`, `INSERT`, `UPDATE`, `DELETE`.
+## Topics Covered
 
-**Day 2:** Creating and Managing Tables
+- Intro to databases: SQLite and PostgreSQL
+- SQLAlchemy ORM basics
+- CRUD operations (Create, Read, Update, Delete)
+- Password hashing with Passlib
+- JWT authentication and protected routes
 
-- Defining schemas with constraints.
-- Relationships between tables (foreign keys).
+## Goals
 
-**Day 3:** Joins and Aggregations
+✅ Connect FastAPI to a database  
+✅ Store and retrieve real user data  
+✅ Add login and sign up functionality
 
-- Combining tables with joins.
-- Aggregation functions: `COUNT`, `SUM`, `AVG`.
-
-**Day 4:** Subqueries and Views
-
-- Writing subqueries and creating views.
-
-**Day 5:** **Project:** **"Student Enrollment Database"**
-
-- Design and query a database for managing students and courses.
-- Features: Add students, enroll in courses, generate reports.
+You’ll build the backend of a real-world app this week!

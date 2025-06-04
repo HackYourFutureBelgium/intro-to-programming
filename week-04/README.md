@@ -1,26 +1,19 @@
-# Python Fundamentals
+# ⚛️ Week 4: React Basics
 
-**Day 1:** Introduction to Python
+Welcome to Week 4! This is your intro to React – a modern library for building user interfaces.
 
-- Python installation and setup.
-- Variables, data types, operators, input/output.
+## Topics Covered
 
-**Day 2:** Control Flow
+- What is React?
+- JSX syntax and rendering
+- Components and props
+- useState and dynamic UI
+- useEffect basics
 
-- Conditionals (`if`, `elif`, `else`).
-- Loops (`for`, `while`, nested loops).
+## Goals
 
-**Day 3:** Functions and Error Handling
+✅ Create your first React components  
+✅ Use state to manage UI  
+✅ Understand the component-based architecture
 
-- Function definitions, arguments, and return values.
-- Error handling using `try`, `except`.
-
-**Day 4:** Data Structures
-
-- Lists, dictionaries, tuples, and sets.
-- Iterating and manipulating data structures.
-
-**Day 5:** **Project:** **"Personal Expense Tracker"**
-
-- CLI tool to log and summarize expenses.
-- Features: Add/view/delete expenses, save data to a file.
+By Friday, you'll build a functional mini React app!

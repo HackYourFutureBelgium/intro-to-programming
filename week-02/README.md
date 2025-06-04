@@ -1,26 +1,20 @@
-# Intermediate JavaScript
+# 📚 Week 2: JavaScript Fundamentals
 
-**Day 1:** DOM Manipulation
+Welcome to Week 2! This week we’ll explore the basics of JavaScript – the core language of the web.
 
-- Accessing and modifying HTML elements.
-- Event handling and listeners.
+## Topics Covered
 
-**Day 2:** Asynchronous JavaScript
+- Variables (let, const), data types
+- Conditionals (if, else), comparison operators
+- Loops: for, while
+- Functions and scope
+- Arrays and objects
+- Basic DOM manipulation
 
-- Understanding callbacks, Promises, and `async/await`.
-- Fetching data using `fetch()`.
+## Goals
 
-**Day 3:** Modular Programming
+✅ Write and run JS code in the browser  
+✅ Understand how to manipulate HTML with JavaScript  
+✅ Use arrays and objects effectively
 
-- Using ES6 modules: `import/export`.
-- Organizing JavaScript code into reusable parts.
-
-**Day 4:** Debugging and Testing
-
-- Debugging with browser developer tools.
-- Writing unit tests with Jest.
-
-**Day 5:** **Project:** **"To-Do List Web App"**
-
-- A web app to manage tasks.
-- Features: Add/remove tasks, persist data with local storage.
+You’ll start thinking like a programmer!

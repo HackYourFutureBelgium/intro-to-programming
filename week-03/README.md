@@ -1,26 +1,19 @@
-# Advanced JavaScript
+# ⚙️ Week 3: JavaScript in Action
 
-**Day 1:** Object-Oriented Programming (OOP) in JavaScript
+Welcome to Week 3! Now we’ll go deeper with JavaScript by interacting with forms, APIs, and async operations.
 
-- Classes, constructors, and inheritance.
-- Prototypes and the prototype chain.
+## Topics Covered
 
-**Day 2:** APIs and AJAX
+- DOM events and forms
+- Fetch API and handling JSON
+- Async/await and Promises
+- Real-world API usage
+- Mini-project: Weather app or To-do app
 
-- Fetching data from public APIs and displaying it dynamically.
-- Handling errors and timeouts.
+## Goals
 
-**Day 3:** Advanced Topics
+✅ Connect to real APIs and display data  
+✅ Build interactive user experiences  
+✅ Understand asynchronous programming
 
-- Web performance optimization techniques.
-- Introduction to frontend frameworks (e.g., React basics).
-
-**Day 4:** Deployment Basics
-
-- Hosting apps with Render.
-- Connecting JavaScript apps to a simple backend.
-
-**Day 5:** **Project:** **"Weather Web App"**
-
-- Create a weather dashboard that fetches data from a public API.
-- Features: Search by city, display current and historical weather.
+By the end of the week, you'll build your first interactive web app.

@@ -1,25 +1,19 @@
-# Intermediate Python
+# 🧩 Week 5: Advanced React
 
-**Day 1:** File Handling
+Welcome to Week 5! This week we take React to the next level with routing and more advanced component logic.
 
-- Reading/writing files (text, CSV, and JSON).
+## Topics Covered
 
-**Day 2:** Object-Oriented Programming (OOP)
+- Lists and keys
+- Controlled forms
+- Lifting state up
+- React Router
+- Project: Task tracker or blog UI
 
-- Classes, objects, and methods.
-- Encapsulation and inheritance.
+## Goals
 
-**Day 3:** Python Libraries
+✅ Navigate across pages using React Router  
+✅ Build forms that sync with state  
+✅ Organize a full React application
 
-- Using standard libraries (`os`, `math`, `datetime`).
-- External libraries with `pip` (e.g., `requests`).
-
-**Day 4:** Debugging and Testing
-
-- Writing tests with `unittest`.
-- Debugging techniques and tools.
-
-**Day 5:** **Project:** **"Library Management System"**
-
-- CLI app to manage a collection of books.
-- Features: Add/search/remove books, save data to a file.
+You’ll be ready to build complete UIs.

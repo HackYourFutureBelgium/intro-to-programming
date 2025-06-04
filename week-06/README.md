@@ -1,22 +1,19 @@
-# Advanced Python
+# 🐍 Week 6: Python + FastAPI Basics
 
-**Day 1:** Asynchronous Programming
+Welcome to Week 6! Time to dive into backend development using Python and FastAPI.
 
-- Understanding `asyncio` and async functions.
+## Topics Covered
 
-**Day 2:** APIs with Python
+- Python basics: variables, loops, functions
+- Installing and setting up FastAPI
+- Creating endpoints: GET, POST
+- Request/Response with Pydantic models
+- Connecting React to FastAPI
 
-- Fetching data using `requests`.
-- Introduction to Flask for API development.
+## Goals
 
-**Day 3:** Data Visualization
+✅ Understand Python fundamentals  
+✅ Build a FastAPI server with working routes  
+✅ Send/receive data with the frontend
 
-- Using `matplotlib` and `pandas` to visualize data.
-
-**Day 4:** Advanced Topics
-
-- Working with large datasets and optimizing code.
-
-**Day 5:** **Project:** **"Weather Dashboard"**
-
-- Build a weather app that fetches data from an API and visualizes it with charts.
+This is your first step into full-stack development.
