@@ -129,13 +129,13 @@ Welcome to the **Introduction to Programming** course! In just 8 weeks, you’ll
 
 By the end of this course, you will:
 
-✅ Understand Git & version control
-✅ Build interactive web apps with React
-✅ Develop RESTful APIs using FastAPI
-✅ Perform CRUD operations with a database
-✅ Implement authentication using JWT
-✅ Deploy full-stack apps to the internet
-✅ Work in a real-world project workflow
+- [x] ✅ Understand Git & version control
+- [x] ✅ Build interactive web apps with React
+- [x] ✅ Develop RESTful APIs using FastAPI
+- [x] ✅ Perform CRUD operations with a database
+- [x] ✅ Implement authentication using JWT
+- [x] ✅ Deploy full-stack apps to the internet
+- [x] ✅ Work in a real-world project workflow
 
 ---
 
