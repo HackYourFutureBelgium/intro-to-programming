@@ -4,11 +4,11 @@ Welcome to Week 3! Now we’ll go deeper with JavaScript by interacting with for
 
 ## Topics Covered
 
-- DOM events and forms
-- Fetch API and handling JSON
-- Async/await and Promises
-- Real-world API usage
-- Mini-project: Weather app or To-do app
+- [DOM events and forms](./01-dom-events)
+- [Async/await and Promises](./02-promises-async-await)
+- [Fetch API and handling JSON](./03-fetch-api)
+- [Real-world API usage](./04-practical-api)
+- [Mini-project: Weather app or To-do app](./05-practical-projects)
 
 ## Goals
 
