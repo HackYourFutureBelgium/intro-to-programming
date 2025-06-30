@@ -23,6 +23,12 @@ Each folder includes examples, explanations, and exercises to help you practice.
 
 Let’s build a strong foundation in JavaScript!
 
+## Resources
+
+- [Play code online editor](https://playcode.io/)
+- [Js Info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## Projects
 
 - [Basic Calculator](./projects/basic-calculator.md)

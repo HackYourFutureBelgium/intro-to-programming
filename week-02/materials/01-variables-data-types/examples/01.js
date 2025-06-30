@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 /*
 📘 What is a Variable?
@@ -11,21 +11,21 @@ you give it a name, put something inside, and later you can look inside or repla
 */
 
 // ✅ Declaring a variable using `let`
-let userName = "Laura";
+let userName = 'Laura';
 
 // Accessing the value
-console.log("Hello, " + userName); // Output: Hello, Laura
+console.log('Hello, ' + userName); // Output: Hello, Laura
 
 // 🔁 Reassigning the variable
-userName = "Sam";
-console.log("Hi again, " + userName); // Output: Hi again, Sam
+userName = 'Sam';
+console.log('Hi again, ' + userName); // Output: Hi again, Sam
 
 // 🔄 Another example: Storing and updating a score
 let score = 0;
-console.log("Initial score:", score); // Output: Initial score: 0
+console.log('Initial score:', score); // Output: Initial score: 0
 
 score = 10;
-console.log("Updated score:", score); // Output: Updated score: 10
+console.log('Updated score:', score); // Output: Updated score: 10
 
 /*
 🛠 Why Use Variables?
@@ -36,15 +36,15 @@ console.log("Updated score:", score); // Output: Updated score: 10
 */
 
 // Example: Without a variable
-console.log("Welcome, Alice");
-console.log("Welcome, Alice");
-console.log("Welcome, Alice");
+console.log('Welcome, Alice');
+console.log('Welcome, Alice');
+console.log('Welcome, Alice');
 
 // Example: With a variable
-let guestName = "Alice";
-console.log("Welcome, " + guestName);
-console.log("Welcome, " + guestName);
-console.log("Welcome, " + guestName);
+let guestName = 'Alice';
+console.log('Welcome, ' + guestName);
+console.log('Welcome, ' + guestName);
+console.log('Welcome, ' + guestName);
 
 /*
 🧩 How Do You Create Variables?
@@ -55,22 +55,22 @@ In modern JavaScript, we use one of the following keywords:
 - `var`: old way (not recommended in modern code)
 */
 
-let city = "Paris"; // Can be updated later
-const country = "France"; // Should remain the same
-var oldWay = "This uses var"; // Not preferred — use let or const
+let city = 'Paris'; // Can be updated later
+const country = 'France'; // Should remain the same
+var oldWay = 'This uses var'; // Not preferred — use let or const
 
 // Example using let (recommended for updatable values)
 let points = 5;
 points = 10; // ✅ Allowed
-console.log("Points:", points);
+console.log('Points:', points);
 
 // Example using const (recommended for fixed values)
 const birthYear = 1990;
 // birthYear = 1995; ❌ This will cause an error (can't change a const)
 
 // var is function-scoped and can be hoisted, which can lead to bugs:
-var message = "Hello";
-var message = "Hi again"; // ❗ Allowed, but can cause confusion
+var message = 'Hello';
+var message = 'Hi again'; // ❗ Allowed, but can cause confusion
 console.log(message); // Output: Hi again
 
 /*

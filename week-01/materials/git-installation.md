@@ -51,7 +51,6 @@ If you prefer using Homebrew:
 1. Visit [gitforwindows.org](https://gitforwindows.org/)
 2. Download the installer and run it.
 3. Follow the setup instructions, and make sure:
-
    - "Git from the command line" is selected.
    - The default options are usually fine for most users.
 
