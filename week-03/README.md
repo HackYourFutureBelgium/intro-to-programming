@@ -25,6 +25,6 @@ By the end of the week, you'll build your first interactive web app.
 
 ## Projects
 
-- [Basic Calculator](./projects/basic-calculator.md)
+- [Book search](./projects/README.md)
 
 ---
