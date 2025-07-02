@@ -23,4 +23,4 @@ Good luck – this is your time to shine!
 
 ## Projects
 
-- [Projects](./projects/README.md)
+- [Projects examples](./projects/README.md)
