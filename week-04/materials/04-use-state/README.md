@@ -75,8 +75,8 @@ Every time the button is clicked, React re-renders the component with the new `c
 ## 📚 Learn More
 
 - 🔗 [React Docs – State: useState](https://react.dev/reference/react/useState)
-- 🎥 [useState Hook Explained Simply](https://www.youtube.com/watch?v=O6P86uwfdR0)
-- 🎥 [What are React Hooks?](https://www.youtube.com/watch?v=f687hBjwFcM)
+- 🎥 [Hooks in React](https://www.youtube.com/watch?v=oecI26cWqzk&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=7)
+- 🎥 [useState hook](https://www.youtube.com/watch?v=O6P86uwfdR0)
 
 ---
 

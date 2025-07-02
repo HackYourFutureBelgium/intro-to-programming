@@ -37,8 +37,7 @@ JSX isn't valid JavaScript by default. It needs to be **compiled** (typically by
 ## 📚 Learn More
 
 - 🔗 [Official JSX Docs](https://react.dev/learn/writing-markup-with-jsx)
-- 🎥 [JSX Explained in 5 Minutes](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
-- 🎥 [Why Do We Use JSX in React?](https://www.youtube.com/watch?v=3e1GHCA3GP0)
+- 🎥 [JSX Explained in 5 Minutes](https://www.youtube.com/watch?v=7fPXI_MnBOY)
 
 ---
 

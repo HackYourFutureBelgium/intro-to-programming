@@ -97,8 +97,7 @@ This prevents memory leaks when using timers, subscriptions, etc.
 ## 📚 Learn More
 
 - 🔗 [React Docs – Effects: useEffect](https://react.dev/reference/react/useEffect)
-- 🎥 [useEffect Hook Explained Clearly](https://www.youtube.com/watch?v=0ZJgIjIuY7U)
-- 🎥 [React useEffect in 5 Minutes](https://www.youtube.com/watch?v=9xhKH43llhU)
+- 🎥 [useEffect Hook](https://www.youtube.com/watch?v=bYFYF2GnMy8)
 
 ---
 

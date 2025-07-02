@@ -75,8 +75,7 @@ Cleaner, shorter, and easier to read!
 ## 📚 Learn More
 
 - 🔗 [React Docs - Components and Props](https://react.dev/learn/passing-props-to-a-component)
-- 🎥 [React Props in 5 Minutes](https://www.youtube.com/watch?v=IYvD9oBCuJI)
-- 🎥 [How Props Work in React](https://www.youtube.com/watch?v=6iFY4X4iexE)
+- 🎥 [React Props in 5 Minutes](https://www.youtube.com/watch?v=m7OWXtbiXX8&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=9)
 
 ---
 

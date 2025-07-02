@@ -60,6 +60,7 @@ Create, display, and remove tasks in a todo list.
 ### 4. ✅ Random Quote Generator
 
 Click a button to fetch a random quote from an API.
+API : `https://zenquotes.io/api/random`
 
 **Concepts:**
 
