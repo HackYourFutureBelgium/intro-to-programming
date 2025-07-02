@@ -19,12 +19,6 @@ You’ll be ready to build complete UIs.
 
 ## Resources
 
-Sure! Here's a clean list of the best resources — only links:
-
----
-
-## 📘 General React
-
 - [https://react.dev/](https://react.dev/)
 - [https://scrimba.com/learn/learnreact](https://scrimba.com/learn/learnreact)
 - [https://reactforbeginners.com/](https://reactforbeginners.com/)
