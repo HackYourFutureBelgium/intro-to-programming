@@ -115,6 +115,7 @@ Welcome to the **Introduction to Programming** course! In just 8 weeks, you’ll
 ### 🗃 Database
 
 - SQLite (local) or PostgreSQL (production)
+- MongoDB
 
 ### 🔧 Tools
 

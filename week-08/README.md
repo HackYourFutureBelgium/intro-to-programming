@@ -16,3 +16,11 @@ Welcome to the final week! Time to build your own full-stack app using everythin
 ✅ Present your project with pride
 
 Good luck – this is your time to shine!
+
+## Resources
+
+---
+
+## Projects
+
+- [Projects](./projects/README.md)
